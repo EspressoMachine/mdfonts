@@ -1,10 +1,10 @@
 @font-face {
 	font-family: 'fajar-icon';
-	src:url('fajard8a4.eot?999jx7');
-	src:url('fajard41d.eot?#iefix999jx7') format('embedded-opentype'),
-		url('fajard8a4.woff?999jx7') format('woff'),
-		url('fajard8a4.ttf?999jx7') format('truetype'),
-		url('fajard8a4.svg?999jx7#icomoon') format('svg');
+	src:url('https://cdn.rawgit.com/EspressoMachine/mdfonts/master/fajard8a4.eot?999jx7');
+	src:url('https://cdn.rawgit.com/EspressoMachine/mdfonts/master/fajard41d.eot?#iefix999jx7') format('embedded-opentype'),
+		url('https://cdn.rawgit.com/EspressoMachine/mdfonts/master/fajard8a4.woff?999jx7') format('woff'),
+		url('https://cdn.rawgit.com/EspressoMachine/mdfonts/master/fajard8a4.ttf?999jx7') format('truetype'),
+		url('https://cdn.rawgit.com/EspressoMachine/mdfonts/master/fajard8a4.svg?999jx7#icomoon') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
